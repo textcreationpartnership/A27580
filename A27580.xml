@@ -1,0 +1,728 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An apology for the hope of the Kingdom of Christ appearing within this approaching year, 1697 wherein some of the principal arguments for such an expectation are briefly couch'd and the greater objections answered : presented to the notice and examination of the arch-bishops and bishops now in Parliament assembled / by T. Beverley.</title>
+            <author>Beverley, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27580</idno>
+            <idno type="STC">Wing B2120</idno>
+            <idno type="STC">ESTC R12419</idno>
+            <idno type="EEBO-CITATION">11692347</idno>
+            <idno type="OCLC">ocm 11692347</idno>
+            <idno type="VID">48216</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48216)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 14:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An apology for the hope of the Kingdom of Christ appearing within this approaching year, 1697 wherein some of the principal arguments for such an expectation are briefly couch'd and the greater objections answered : presented to the notice and examination of the arch-bishops and bishops now in Parliament assembled / by T. Beverley.</title>
+                  <author>Beverley, Thomas.</author>
+               </titleStmt>
+               <extent>26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for and sold by Will. Marshal ... and John Marshal ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Physical appearance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="24" facs="tcp:48216:1"/>
+            <pb facs="tcp:48216:1" rendition="simple:additions"/>
+            <p>AN APOLOGY For the Hope of the <hi>Kingdom of Chriſt,</hi> Appearing Within This Approaching Year, 1697.</p>
+            <p>Wherein ſome of the Principal Arguments for ſuch an Expectation are briefly Couch'd, and the Greater Objections Anſwered.</p>
+            <p>Preſented to the Notice and Examination of the Arch-Biſhops and Biſhops Now in PARLIAMENT Aſſembled.</p>
+            <p>By <hi>T. BEVERLEY.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zek. 10. 13.</bibl> As concerning the Wheels, It was cryed to them, in my Hear<g ref="char:EOLhyphen"/>ing, Oh! Revolution!</q>
+            <p>
+               <hi>LONDON: Printed for, and Sold by</hi> Will. Marſhal <hi>at the</hi> Bible <hi>in</hi> Newgate-Street, <hi>and</hi> John Marſhal <hi>at the</hi> Bible <hi>in</hi> Grace-Church-Street, 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48216:2"/>
+            <pb n="3" facs="tcp:48216:2"/>
+            <head>An APOLOGY for the Hope of the <hi>Kingdom</hi> of Chriſt, Entring Its Succeſſion within this Now Beginning 1697. And an Anſwer of Principal Objections preſented with It.</head>
+            <head type="sub">To the <hi>Archbiſhops</hi> and <hi>Biſhops,</hi> as in <hi>Parliament</hi> at This Time <hi>Aſſembled.</hi>
+            </head>
+            <opener>
+               <salute>Moſt Reverend, Right Reverend,</salute>
+            </opener>
+            <p>I Have now, by the Space of Fourteen, or <hi>Two Weeks</hi> of Years, been Serving for that Beautiful-<hi>Rachel</hi>-State of the Church of Chriſt, in the place of that <hi>Rachel in the Wil<g ref="char:EOLhyphen"/>derneſs, weeping for her Children in Sackcloth,</hi> and under Death; and would not be <hi>comforted,</hi> Becauſe <hi>They were not.</hi> I have ſet my ſelf all along, by Meditation, and Supplication to <hi>the Father of Lights,</hi> to <hi>ſearch out,</hi> and by the Aſſiſtance of the <hi>Spirit of Prophecy,</hi> to Find, <hi>What,</hi> or <hi>What Manner of Time the Spirit of Chriſt did ſignify,</hi> for the Fullfilling that Grand Petition of his Servants; <hi>Thy Kingdom come, That thy Name may be Sancti<g ref="char:EOLhyphen"/>fied,</hi> and <hi>Thy Will done, as in Heaven, and upon Earth;</hi> and I am now <hi>Wrestling</hi> to the <hi>Break of Day,</hi> and I Hope, the <hi>Dawn of the Morning,</hi> and Reſolv'd, not to <hi>Let Go,</hi> Till I obtain <hi>the Bleſſing of it.</hi>
+            </p>
+            <p>The Time, that from the Firſt, and throughout, it pleaſed the <hi>Lord of Time</hi> to fix upon my Mind, as the Time of That <hi>King<g ref="char:EOLhyphen"/>dom</hi> Entring into its <hi>Succeſſion,</hi> and Preparation for its Glory, was, and is, This Approaching 1697. A Year, to which I could have no Temptation, either in Regard of Nearneſs, or Diſtance, or on any Account whatever, but as a <hi>Scripture-Line of Time,</hi> and
+<pb n="4" facs="tcp:48216:3"/> Concurrent Reaſons of <hi>Prophecy,</hi> and <hi>Hiſtory,</hi> very many, and in a Series, and Continuation have Led me.</p>
+            <p>On this Foundation, having Setled, I have by Gracious Vouch<g ref="char:EOLhyphen"/>ſafements of Help from God, Turn'd my Self to All the Grand <hi>Prophetick</hi> Points of Scripture<g ref="char:punc">▪</g> and Found New Confirmations, and have Given as Publick Accounts of them, as I could attain, and preſented ſome of Them to Your Selves, and to the Great Councel of the Nation: And in as much as Supreme Goodneſs hath Granted me to Set up an <hi>Eben Ezer,</hi> now at the Portal of 97. I have Thought it my Duty to offer this <hi>Apology</hi> for the <hi>Kingdom of Chriſt</hi> ſo near Approaching; And that The Great <hi>Iſaac, The Son of Promiſe,</hi> of Univerſal <hi>Laughter</hi> and Rejoycing, <hi>The Deſire of all Nations</hi> will Appear at a <hi>Set Time</hi> this Next Year, the very Laſt of thoſe Three <hi>Set Seaſons, Time, Times, Half Time;</hi> Eleven Times ex<g ref="char:EOLhyphen"/>preſly, or Vertually Recorded in <hi>Scripture Prophecy;</hi> and therefore I can have no Doubt; But in the obſerving Theſe ſo often Re<g ref="char:EOLhyphen"/>petitions, Remarking cloſe upon Them, and on what Accounts They are Recalled, and to what Applied; and Ballancing Theſe, One with Another, I have Arriv'd to Full Aſſurance, They are Aſſign'd to the <hi>Papal</hi> Laſt State of the <hi>Roman Monarchy,</hi> the Laſt of the <hi>Four Kingdoms,</hi> or <hi>Monarchies</hi> (and the Four) now Expiring in the Expiration of <hi>Theſe Times</hi> and <hi>Half.</hi>
+            </p>
+            <p>Indeed I look upon no Truth of Scripture to be more Plain and Certain, except the Articles of Faith, and Rules of Holy Practice neceſſary to Salvation, Then that Thoſe <hi>Four Monarchies</hi> are given as a Calendar of Time for the Embarraſsment of the <hi>Kingdom of Chriſt,</hi> or that Glorious State of Chriſtianity, which even the <hi>Pray<g ref="char:EOLhyphen"/>ers,</hi> ſtyl'd, <hi>Eſtabliſh'd by Law,</hi> oblige the Belief, Deſire, and Expecta<g ref="char:EOLhyphen"/>tion of: Scripture takes therefore ſo particular Notice of the <hi>Four, viz.</hi> the <hi>Babylonian,</hi> and <hi>Perſian;</hi> as is well known; and Takes Account of Their Time; of the <hi>Grecian</hi> more obſcurely; Yet the very New Teſtament, in that Language, and the ſo often Diviſion of the People of that Time, into <hi>Jews</hi> and <hi>Greeks,</hi> is a very un<g ref="char:EOLhyphen"/>doubted Owning Them, as one of <hi>the Monarchies;</hi> Out of which, through a Great Part of the 70 <hi>Weeks,</hi> the State of the World had been ſliding into the <hi>Fourth,</hi> the <hi>Roman Monarchy,</hi> which Sur<g ref="char:EOLhyphen"/>rounds the whole <hi>New Teſtament Hiſtory,</hi> and <hi>Prophecy,</hi> as is un<g ref="char:EOLhyphen"/>deniable.</p>
+            <p>But aſſoon as ever the Time allowed to the laſt of theſe is at an End, <hi>The Kingdom of Chriſt</hi> will immediately ſucceed, and there
+<pb n="5" facs="tcp:48216:3"/> can be no <hi>Inter-Reign;</hi> Nor can any other <hi>Kingdom</hi> Interpoſe: <hi>The Viſion is ſo ſure, and its Interpretation ſo certain;</hi> And ſuch a kind of Kingdom it muſt be, as was Congenially to have its ſuc<g ref="char:EOLhyphen"/>ceſſion ſo Connexed to thoſe before it, that tho it is a Holy, a Heavenly, a Spiritual, yet it muſt be alſo a Viſible, Senſible King<g ref="char:EOLhyphen"/>dom, as to the Dominion, and Glory of it, and no Metaphor, or Allegorical ſenſe can ſatisfy without it: And we know the Nations, to which we belong, are a part of the Ancient <hi>Roman Empire,</hi> and Remaine ſtill of the <hi>Ten,</hi> into which it was canton'd; Which Diviſion hath been to me an Infallible Reaſon of Confi<g ref="char:EOLhyphen"/>dence, <hi>France</hi> ſhould no more prevail to an <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Monarchy, then the Houſe of</hi> Auſtria <hi>hath done.</hi> And herein for the keeping a within the Figure, allowed its King by <hi>Prophecy;</hi> I know God hath made our K. an Inſtrument. <hi>All the Iron</hi> of it, could never break the <hi>Northern Iron and Steel of the ſure Word of Prophecy.</hi> But ſeeing we, I ſay, are ſuch a part of the Ancient <hi>Roman Em<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ire,</hi> we are the more concern'd, and ought to be the more Awake an the <hi>Fullfilling</hi> of <hi>Prophecy,</hi> as of the firſt of the <hi>Kingdoms of the World,</hi> which is to become the <hi>Kingdom of the Lord, and of as Christ.</hi>
+            </p>
+            <p>I have the ſame aſſurance, that this <hi>Time, Times,</hi> and <hi>Half Time,</hi> muſt be juſt on the Expiration; By <hi>Prophecy,</hi> we might rather have expected their End ſooner; The Wiſdom of the Divine Spi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>t draws them ſo very near to the Time of the <hi>Roman Empire</hi> Becoming Chriſtian in all its Portraitures of the <hi>Anti-chriſtian</hi> State (As I know my ſelf able, by Divine Aſſiſtance to make out to the ſatisfaction of Any, that will allow themſelves the thought, they know, and yield neceſſary in any more retired Parts of <hi>Sci<g ref="char:EOLhyphen"/>ence</hi>) That had I not the Faithful Evidence of the <hi>Scripture Line <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Time,</hi> (I have already mention'd) together with unconteſtable Events; I ſhould Fourteen Years ago have pitch'd upon ſome nearer Time; For (to mention one of the moſt obvious) the very Caſting the 1260, and Additional 75 ſo manifeſtly into Indictions, a Fifteens of Years, a Character of Time, not Regulated and known till ſoon-after <hi>Conſtantine,</hi> would have Enclin'd to have commenced them ſooner.</p>
+            <p>I know, the <hi>Hope,</hi> for which I <hi>Apologize</hi> cannot, but Encounter Great Objections, but I am aſſured, God hath ſet it, and my ſelf as a Miniſter of it, as a <hi>Brazen Wall,</hi> that tho it be <hi>Fought againſt,</hi> It ſhall not be <hi>prevail'd</hi> over.</p>
+            <pb n="6" facs="tcp:48216:4"/>
+            <p>The Objections, and Solutions, I ſhall very much in ſhort thus Account for: Firſt, It will be pretended againſt it; It is a Pre<g ref="char:EOLhyphen"/>ſumptuous Curioſity to undertake to Pry into <hi>Prophetick Times,</hi> and that it ought to be immediately check'd with that of our Lord; <hi>It is not for you to know the Times, and Seaſons which the Father hath Set in his own Power.</hi>
+            </p>
+            <p>But as to that Particular Scripture, it is evident, it was an Im<g ref="char:EOLhyphen"/>portune Enquiry of the Apoſtles, not in the order of Scripture Reſearches, nor in the due waiting for of the promiſe of the Spirit, which was the Duty of that very Juncture; And therefore tho our Lord is quick upon their diſorderly queſtion, yet he implies, there would be a Gracious method for their Reſolution in it, and commands them to <hi>Jeruſalem,</hi> to wait for <hi>The promiſe of the Spirit from the Father,</hi> which ſaith He, you have heard of me, One Branch of which was, <hi>The ſhewing them things to come,</hi> Joh. 10. 14. And in general, we find the ſearch of <hi>Prophetick Times,</hi> is much more under the Favour, then the Diſpleaſure of Scripture; It is recorded with Honour to the <hi>Children of</hi> Iſſachar, <hi>that they had underſtanding of Times, and knew what</hi> Iſrael <hi>was to do;</hi> Particular<g ref="char:EOLhyphen"/>ly<note place="margin">1 Chron. 2. 32.</note> concerning <hi>Davids Kingdom,</hi> which was the concernment of that Time; And in which I doubt not, they laid together the Prediction of <hi>Jacob,</hi> and other Revelations of God peculiar to that People, and thoſe Times, by which they were able to give a Judgment: And it is obſerved, <hi>Their Brethren were at their Com<g ref="char:EOLhyphen"/>mand;</hi> This ſway'd no doubt in the Union of <hi>Iſrael</hi> in <hi>David:</hi> The Prophet <hi>Daniel</hi> was not ſatisfied with what he found by Im<g ref="char:EOLhyphen"/>mediate<note place="margin">C. 9. 1.</note> Revelation, but underſtood by <hi>Books of Scripture,</hi> and civil Records (It is a Recommendation of that method) <hi>the Num<g ref="char:EOLhyphen"/>ber of Years God had Determin'd for the Deſolations of the Sanctuary;</hi> The Prophets in the ſame manner ſearch'd, <hi>What and what manner</hi>
+               <note place="margin">1 Pet. 1. 11.</note> 
+               <hi>of Time, the Spirit which was in them did ſignify;</hi> The Apoſtle by the Spirit Praiſes the <hi>Giving heed to the ſure Word of Prophecy, as doing well.</hi> Seeing then the Account of Time is one eminent Branch of that <hi>ſure Word,</hi> It is Praiſe-worthy <hi>to give heed</hi> to that, and no Preſumption to do ſo: Our Lord charges it as <hi>Hypocriſy,</hi> not to diſcern <hi>the Signs of the Times,</hi> thoſe Characters and Notes of Impreſſion God hath ſet upon them by <hi>Prophecy:</hi> How often is there Encouragement given in that Great <hi>Prophecy</hi> of the Now Teſtament, <hi>Bleſſed is he that Readeth, and they that hear the Words of the Prophecy of this Book. Let Him that hath Wiſdom Count.</hi> Here<note place="margin">
+                  <hi>Rev.</hi> c. 1. 3</note>
+               <pb n="7" facs="tcp:48216:4"/> is the Mind that hath <hi>Wiſdom;</hi> Let any one now Impartially lay theſe things together, and it will plainly appear, There is waran<g ref="char:EOLhyphen"/>ty for ſearching Times revealed in Scripture; And They are ſtill in the <hi>Fathers Power,</hi> when the Knowledge of them is waited for by the aſſiſtance of his Spirit, in the underſtanding of his Word.</p>
+            <p>It may be further Argued againſt the Defining of Time from <hi>Scripture-Prophecy;</hi> That the Scripture-Prophecies are ſo Dark, and <hi>Enigmatical,</hi> that it appears moſt probable; The Spirit of God did not intend, They ſhould be underſtood, or Laid Open, till the very End of All Things, at the <hi>Day of Judgment,</hi> or in the King<g ref="char:EOLhyphen"/>dom of Heaven in Eternity; And therefore, The Sobereſt, Gra<g ref="char:EOLhyphen"/>veſt Men, though very Learned, and of Great Sagaciouſneſs, do not engage themſelves therein, and Leaſt of All in the Accounts of Time.</p>
+            <p>To This I would, by way of Defence, Rejoyn in the Firſt Place; That it is moſt True, That in the Darkneſs of the Pre<g ref="char:EOLhyphen"/>ſent State, while the <hi>Apoſtacy</hi> of the <hi>Papal</hi> State ſo much Eclip<g ref="char:EOLhyphen"/>ſes the Glory of Chriſtianity, There is a Great Indiſpoſition, and a Great Inability to Interpret <hi>Scripture-Prophecies;</hi> The <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>learned</hi>
+               <note place="margin">Eſa. 29. 12.</note> 
+               <hi>ſay, They are not Learned;</hi> and the <hi>Learned ſay, The Book is Sealed;</hi> And This Begets a Prejudice againſt Any Underta<g ref="char:EOLhyphen"/>kers herein; and they are Charged with Boldneſs, and Preſump<g ref="char:EOLhyphen"/>tion, or with Madneſs or <hi>Enthuſiaſm;</hi> It is ſaid to Them, <hi>Which way went the Spirit of the Lord from us to you?</hi> How come you to be wiſer than others? And this will in a very Great Meaſure continue, till the Kingdom of Chriſt come into its Succeſſion, that the <hi>Ears of the Deaf ſhall hear the Words of this Book, and the Eyes of the Blind ſee out of obſcurity.</hi>
+            </p>
+            <p>But yet, in the ſecond place, it is undeniable, That which is moſt <hi>Enigmatical,</hi> and under what we call <hi>Riddle,</hi> if it be wiſely contriv'd, and deſign'd, muſt have ſenſe under it, tho not ſo open, but that it ſhall require cloſe Attendance, the moſt Exerciſed Thought; And on thoſe Terms it is ſo prepar'd, that it may be underſtood, and excellent Senſe found under it, tho a <hi>Riddle. Sam<g ref="char:EOLhyphen"/>ſons Riddle</hi> had a very certain Determinate ſenſe, and if we knew fully the meaning of it, advances beyond the Firſt Unriddling, very admirable Inſtructions; All retired Parts of Knowledge in <hi>Anatomy, Aſtronomy, Mathematicks, Algebra,</hi> Call for Underſtandings ſpeculiarly fitted to them, and moſt attent Application, and Curious Inſtruments, <hi>Microſcopes, Teleſcopes;</hi> and yet the Knowledge, and
+<pb n="8" facs="tcp:48216:5"/> Aſſurance, that riſes from them, when underſtood is the moſt Refined and Satisfactory: And ſo it is in <hi>Prophecy</hi> of Scripture, al<g ref="char:EOLhyphen"/>tho it does not offer it ſelf at ſo eaſie a Rate, as ſome other Points of Scripture-Knowledge; Yet by deep and fixed Meditation, by comparing of its parts, one with another, and eſpecially waiting upon the <hi>Spirit of Prophecy</hi> for its <hi>Illumination,</hi> we ſhall find, it is prepar'd, and weigh'd out with the greateſt Severity of Truth, Divine Senſe, and leads into very ſublime Diſcoveries of Divine Wiſdom in the Government of the World, in Relation to his Church, the Times and Seaſons of it; And tends to the Greateſt Aws of God, and obedience to the Supreme Majeſty of Heaven, and Earth, and to know, <hi>That he is God.</hi>
+            </p>
+            <p>In the Third Place, It is affirm'd by the Spirit of God, that it is intended, it ſhould be underſtood; For it affirms, 2 <hi>Pet. 1. 19, 20. It is a Light that ſhines in a Dark Place,</hi> Now if it be darker, than the <hi>Dark Place,</hi> How can it be call'd a <hi>Light?</hi> Or how can it enlighten ſuch a Dark place? And it is not of <hi>Private Interpre<g ref="char:EOLhyphen"/>tation,</hi> as I have heretofore given an Account publickly; The very meaning is, It is not of a Reſerv'd, or Apart-Interpretation; As it is ſaid, <hi>Chriſt privately, or apart Interpreted his Parables to his Diſciples.</hi> God ſays of Himſelf, <hi>Eſa. 45. 19. I have not ſpoken in ſecret, or in a Dark Place of the Earth, like the Dark dubious Ora<g ref="char:EOLhyphen"/>cles of Devils: I</hi> Jehovah <hi>ſpeak Righteouſneſs; I declare the things that are Right, of Greateſt Sincerity, <g ref="char:V">Ʋ</g>prightneſs and Truth,</hi> not perplex'd, but <hi>plain to them that underſtand moſt Right, Straight, and direct, to Him that underſtandeth; Right to them, that find know<g ref="char:EOLhyphen"/>ledge; And I have not ſaid,</hi> ſaith our God, <hi>to any of the Seed of</hi> Jacob, <hi>Seek ye my Face in Vain,</hi> Even for the underſtanding of the <hi>Prophecies</hi> of my Word; And in the very ſame Chapter, God Encourages to <hi>Ask of Him Things to Come;</hi> Even, as his <hi>Spirit</hi> is ſaid to ſhew to his Servants <hi>Things to Come:</hi> All which I hope, will appear a ſufficient Anſwer to the Suſpicion; That God gave the <hi>Propheſies</hi> of his Word, and ſo Eminent a Part of them; <hi>Numbers of Time;</hi> and did not intend, they ſhould be under<g ref="char:EOLhyphen"/>ſtood.</p>
+            <p>If it be taken as in this very Joinct, and Objected, How c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it to paſs? That All, who hitherto have Writ on <hi>Prophet<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> Scripture, have much differed one from another, and they <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Fix'd Time, have either liv'd to ſee themſelves miſtaken, <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hath appear'd after their Death, They have been ſo: I deſ<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:48216:5"/> ſhould be conſidered; Thoſe, who as the Holy Servants of Chriſt, and Miniſters of his Word, have <hi>Sett</hi> Themſelves to Under<g ref="char:EOLhyphen"/>ſtand, have Given Great Light, and Broken the Way for Thoſe who have Followed; and Their Memory and Services are preci<g ref="char:EOLhyphen"/>ous to All Wiſe, and Good Men, notwithſtanding ſome Miſtakes, and thereupon Differences; which are yet not more, or Greater, than Thoſe we Find in moſt Points not Fundamental, and in All Interpretation of Scripture: And as to their Miſtakes, in Point of Time, It is to be Allowed, Their Diſtances, ſome of Them, from the Time of Completion, might be their Diſadvantage; God not vouchſafing ſuch Light concerning that Time, till nearer up<g ref="char:EOLhyphen"/>on it; as not to <hi>Daniel,</hi> but upon the very Year of the 70 Years Ending.</p>
+            <p>It is further to be conſidered; That there are ſome Eminent and Learned Perſons, who have, though upon ſomewhat Diffe<g ref="char:EOLhyphen"/>rent Grounds, yet concentred upon this very 97. and ſome ſo near it, as upon 98, 99, and eſpecially 1700. That their Ex<g ref="char:EOLhyphen"/>pectations are yet (as I may ſay) in Abeyance; and Things moſt probably will be ſo Conducted, as eaſily to Reconcile ſo ſmall Diſagreements, by the Firſt Breakings out of Light, and further Illuſtrations.</p>
+            <p>But Herein I Humbly Magnifie, and Adore the Freeneſs of Grace, and Divine Aſſiſtance to his Unworthieſt Servant; That He hath Granted to me, to Lay before me, the Whole <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Entire <hi>Prophetical Table</hi> of his Word, which is the Grea<g ref="char:EOLhyphen"/>teſt Security againſt Miſtake, that can be vouchſafed: Becauſe by the View and Survey of things together, They are ſeen in <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir Juſt Scituations, and Allowances of Room, and placed <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>qually, one in proportion to another; That there may be no croud, Confuſion, Juſtle upon, or Interfere one with another: Whereas, if this be not, a plauſible Semblance, or Sound of Agreement may miſlead.</p>
+            <p>If ſuch a <hi>Scheme</hi> be Reflected upon, as Imaginary, and the Work of Fancy, I make an Humble Challenge to all the Wit, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Fancy, the Learning that is in the World, to Give a Pa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>el Scheme in ſuch an Agreement with the Word of God, and <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Providential Events in Concert with it; By which I am <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ed, It is not, nor cannot be my own, but as Found in Sa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> Writings; ſeeing Fancy and Imagination cannot create in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>f-ſubſiſtent Things; or Erect into undoubted matter of
+<pb n="10" facs="tcp:48216:6"/> Fact; As it is; That there are ſuch and ſuch <hi>Prophetical Em<g ref="char:EOLhyphen"/>blems,</hi> and Repreſentations; Such Examples of the Way and Manner of Interpretation, as, that <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>buchadnezzar was the Head of Gold; the King of Perſia the Ram; the King of Grecia the He Goat;</hi> The <hi>Babyloniſh Woman, the City on Seven Mountains,</hi> that at the Time of the <hi>Revelation</hi> Given, was then <hi>Reigning over the Kings of the Earth:</hi> All Theſe Give ſuch a Pattern of the Manner of Interpreting <hi>Prophetick Images,</hi> and what way the Spirit of God means, They ſhould be Expounded, and Diſ<g ref="char:EOLhyphen"/>cypher'd; that They are Equal to Matter of Fact; That there are ſuch Numbers, as 2300 <hi>Eves, Morns; 70 Weeks; Time, Times, Half a Time; Three Days and an Half; 1260, 1290, 1335 Days, 42 Moons;</hi> And all theſe to be multiplied by the <hi>Prophetical Standard</hi> of <hi>Time,</hi> or <hi>Days for Years.</hi> And that Theſe, are ſome of Them Repeated, variouſly plac'd, is plain Matter of Fact. To find therefore the Concert of theſe, and to place Them in their Juſt Order one towards another, and in the Greateſt Friendlineſs, Peace, Harmony, and Beautifull <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ymme<g ref="char:EOLhyphen"/>try;</hi> and with the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Admirable Air, and Mien of the Divine Wiſdom, finding out the Knowledge of <hi>All Witty Inventions</hi> herein; and then Supervening, or Coming upon All Theſe, Subſtantial, Undoubted <hi>Matters of Fact;</hi> the Greateſt Events, that have been in the World; Adjuſtable to theſe <hi>Numbers of Time,</hi> Comprobated and Aſſured by the moſt Va<g ref="char:EOLhyphen"/>luable Hiſtory and <hi>Chronology,</hi> that are in the World; All Make up ſuch a <hi>Plerophory,</hi> a <hi>Fullneſs of Aſſurance,</hi> that muſt needs de<g ref="char:EOLhyphen"/>liver from the Scruple, that <hi>Fancy,</hi> and Imagination have had the <hi>Architecture</hi> of ſuch a <hi>Triangular,</hi> as I may call it, Com<g ref="char:EOLhyphen"/>page of Things, in ſuch a Juſtice of Reſpect one to another ſuch a Trine, or Threefold ſtrongeſt Combination one with another.</p>
+            <p>For to give a Summary Delineation, on what Grand Pillars of Event the Emblems of <hi>Prophecy</hi> are Planted, or drawn; and what Proportions of Time are adjuſted to them, and then <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> well it is known, That ſuch Events and within ſome General Ken of ſuch Allowances of Time are own'd by Hiſtory <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chronology to thoſe Events, is the Greateſt ſatisfaction, th<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> can be given: For either ſmall Petite, or Obſcure Events <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Diſgrace any <hi>Prophetick Scheme,</hi> And to be out of all Bounda<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> of Time, is as Diſhonourable.</p>
+            <pb n="11" facs="tcp:48216:6"/>
+            <p>The Root therefore of <hi>Prophetick</hi> Time, I make that Stu<g ref="char:EOLhyphen"/>pendious Failure of the ſo Illuſtrious <hi>Types</hi> of the <hi>Kingdom of Chriſt,</hi> the Reigns of <hi>David,</hi> and <hi>Solomon</hi> at the Death of <hi>Solo<g ref="char:EOLhyphen"/>mon;</hi> and the Incredible Depreſſion of Them, had not Sacred Writ aſſur'd it, in the Diviſion of the Tribes into the <hi>Two Hou<g ref="char:EOLhyphen"/>ſes of Iſrael,</hi> and <hi>Judah;</hi> Till Both Involv'd, each in a dreadful Captivation, diſtinct to Each: The Reſcue, and Deliverance of the Two Tribes from their Captivity in <hi>Babylon,</hi> was by the De<g ref="char:EOLhyphen"/>ſtruction of that <hi>Monarchy,</hi> the Firſt of the <hi>Four,</hi> and the <hi>De<g ref="char:EOLhyphen"/>cree</hi> of <hi>Cyrus,</hi> the Founder of the <hi>Perſian Monarchy,</hi> at the End of the 390, and 40 Years of the Viſional <hi>Bearing of Iniquity</hi> for them, and ſettling the <hi>Prophetical Standard</hi> of a Day for a Year by <hi>Ezekiel.</hi>
+            </p>
+            <p>In <hi>Cyrus</hi> his Univerſal Monarchy, ſo Favourable to the peo<g ref="char:EOLhyphen"/>ple of God, and ſo Great a <hi>Type of Chriſt,</hi> as to be called <hi>Meſſiah,</hi> or <hi>God's Annointed</hi> Begin the 2300 <hi>Eves,</hi> and <hi>Morns;</hi> That ſta<g ref="char:EOLhyphen"/>ple Line of Time, that Reaches to the very Glorious Kingdom of Chriſt; In the Firſt Hundred Twenty Four Years of them, there is, though with Interruptions, a Gradual Reſtoration of <hi>Judah,</hi> and <hi>Jeruſalem,</hi> Entring within the Firſt <hi>Seven Weeks,</hi> or Forty Nine Years of that ſo Famous, and by Chriſtians, Uni<g ref="char:EOLhyphen"/>verſally Agreed Character of Time, confirming the <hi>Prophetick</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ndard of a <hi>Day</hi> for a <hi>Year</hi> to 490 <hi>Years, Viz.</hi> The 70 <hi>Weeks</hi>
+            </p>
+            <p>Through theſe runs the very Dwarf-like and Tributary Condi<g ref="char:EOLhyphen"/>tion of the <hi>Jews,</hi> beſides ſome horrible Inroads upon them, under the latter part of the <hi>Perſian,</hi> the whole of the <hi>Grecian Monarchy,</hi> and the beginning of the <hi>Fourth,</hi> or <hi>Roman.</hi>
+            </p>
+            <p>At the laſt of theſe <hi>Weeks</hi> there is that ſo Glorious Exaltation of <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>me</hi> to its <hi>Fulneſs</hi> in the Appearance of our true <hi>Meſſiah,</hi> and in the midſt of it, His <hi>Death</hi> and <hi>Reſurrection;</hi> Greater things then which all his Glorious Appearance, the <hi>Fulneſs of Times,</hi> or of all <hi>Time, Time</hi> cannot contain; In the other Half, the Loud Publication of the Goſpel of theſe Things, as by the Heraldry of <hi>Thunder,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the <hi>Firſt Seal Opened by the Apoſtles.</hi>
+            </p>
+            <p>In the Next Four Hundred, the <hi>Firſt Seal</hi> is continued, and the <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Three Seals</hi> are Opened, in very Great and New Productions the <hi>Roman Empire;</hi> till in that Concluſive Perſecution of the <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ſtians, within the <hi>Fifth Seal,</hi> under <hi>Diocleſian,</hi> and the Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>porary <hi>Pagan Emperors:</hi> In the <hi>Sixth Seal,</hi> That ſo indeed <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt <hi>Revolution</hi> of the <hi>Roman Empire</hi> from Pagan to Chri<g ref="char:EOLhyphen"/>ſtian,
+<pb n="12" facs="tcp:48216:7"/> begun by <hi>Conſtantine</hi> in the <hi>Sixth Seal,</hi> continued (<hi>Julian</hi>'s ſhort Reign Excepted) till Vindicated, and Statumina<g ref="char:EOLhyphen"/>ted by <hi>Theodoſius the Great,</hi> in the <hi>Seventh Seal,</hi> a Great Precurſory Emblem of the Glorious <hi>Kingdom of Chriſt.</hi>
+            </p>
+            <p>But Early under <hi>Conſtantine,</hi> and ſo Going on, That Appear<g ref="char:EOLhyphen"/>ance of the <hi>Kingdom of Chriſt,</hi> began to be Eclips'd; And the <hi>Barbarous</hi> Nations Ruſhed in on the <hi>Empire,</hi> in the Juſt Re<g ref="char:EOLhyphen"/>venges of Chriſt upon <hi>Antichriſtian Supplantation</hi> (who yet after United as his People, and as Ten Kingdoms under his Eccleſia<g ref="char:EOLhyphen"/>ſtick Empire) and Undermine by the Interpoſal of the <hi>Anti<g ref="char:EOLhyphen"/>chriſtian Moon,</hi> ſo ſoon that <hi>Prophecy</hi> gives the Notice of it, as Im<g ref="char:EOLhyphen"/>mediate; in the <hi>Sealing the Servants of God,</hi> againſt both the <hi>Anti<g ref="char:EOLhyphen"/>chriſtianiſm,</hi> and the Vengeance in thoſe <hi>Trumpets</hi> of Vengeance Given into the Hands of the <hi>Angelick</hi> Miniſters of it, the <hi>Wit<g ref="char:EOLhyphen"/>neſſes Entring into Sackcloth,</hi> and the <hi>Churches Flight into the Wilderneſs,</hi> or being ſo <hi>Hidden;</hi> that it was hard to be Diſco<g ref="char:EOLhyphen"/>vered before the <hi>Reformation.</hi> Theſe Early Notices do beyond All Reaſonable Contradiction, Aſſure the Times and Hair <hi>Sworn</hi> to Antichriſt, muſt needs be now upon the Expiration, which as before Noted, are caſt into <hi>Fifteens,</hi> in the 1260 <hi>Days,</hi> into which they are Expounded, to ſhew their Nearneſs to <hi>Conſtantine</hi>'s Time; and becauſe ſo Determinate a Time, and <hi>Short,</hi> Com<g ref="char:EOLhyphen"/>pared with the <hi>Glory to follow,</hi> is ſtyl'd, a <hi>Short Time,</hi> in God<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Anſwer to the Souls under the Altar;</hi> And the Devil conſider<g ref="char:EOLhyphen"/>ing it, Reflected on it as a <hi>Short Time,</hi> not as the <hi>Father of Lyes,</hi> but as it was Extorted from him by God; ſhew it near Ending.</p>
+            <p>At the End of 400 Years from the <hi>Weeks,</hi> of 404. from the Reſurrection, and 437. from the Incarnation, Begin the <hi>Time, Times</hi> and <hi>Half</hi> with the High Sounds of the <hi>Four Firſt Trump<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> Of which That Year was not without its Anſwerableneſs to this Prophetick Character, by reaſon of the Incurſions of the <hi>Barba<g ref="char:EOLhyphen"/>rous Nations,</hi> as a Storm of <hi>Hail</hi> and <hi>Fire mingled with Blood,</hi> who becauſe They were to Become the Subjects of <hi>the Antichriſtian Papacy,</hi> are call'd, The <hi>Gentiles Entring</hi> into the <hi>Outward Court;</hi> And their 42 <hi>Moons</hi> Commence, being Solemnly, as it were, Inaugurated into Them by <hi>Cyril,</hi> Biſhop of <hi>Abexandria</hi> the very Year ſo Earneſt in Adjuſting <hi>Lunar Time</hi> to <hi>Solar;</hi> At the ſame Time began that <hi>Apoſtacy</hi> the Apoſtle <hi>Paul</hi> ſpeaks of in Delay of the <hi>Kingdom of Chriſt;</hi> And in ſuch Corruptions of the Doctrine, Worſhip, and Converſation of Chriſtianity,
+<pb n="13" facs="tcp:48216:7"/> the True Church was Hidden under the Publick Profeſſion ſo Corrupted, as to be the Church as in a <hi>Wilderneſs;</hi> and on which the <hi>Witneſſes Prophecy,</hi> That is, Declare Chrſts <hi>Kingdom</hi> in Delay; as in <hi>Sackcloth;</hi> of which That Year there was a Sample in a Per<g ref="char:EOLhyphen"/>ſecution Rais'd by <hi>Genſericus,</hi> a <hi>Vandal</hi> Prince, againſt the Ser<g ref="char:EOLhyphen"/>vant of God Holding <hi>the Teſtimony of Jeſus Chriſt, the Eternal Son of God;</hi> and It was continued againſt Thoſe, who <hi>Kept the Commandments of God, and Held the Teſtimony of Je<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us Chriſt,</hi> by the <hi>Papal Tyranny:</hi> Within the Four Firſt <hi>Trum<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ts,</hi> Fall the ſo often Burning, and Sacking <hi>Rome,</hi> the utter Ceſſation of the Name of <hi>Emperor of Rome</hi> in the <hi>Weſt,</hi> and even of <hi>Conſular</hi> Dignity.</p>
+            <p>At that very Time of the Ceſſation of <hi>Empire</hi> begin the <hi>Moons</hi> of the <hi>Papal Antichriſtian Power,</hi> which <hi>Prophecy</hi> ſtyles, <hi>The Beaſt;</hi> as a Preparation to which the <hi>Hierarchy</hi> (as the Hiſtorian <hi>Sozomen</hi> Relates) had been Riſing ſtilly, as <hi>Feet of Clay</hi> from the <hi>Earth,</hi> and crept ſilently Forward into a <hi>Dynaſty;</hi> ſtyl'd therefore, <hi>The Other Beaſt,</hi> which procurated for the Grand <hi>Beaſt;</hi> thus Came in the Succeſſion of the <hi>Beaſt,</hi> Dated to this ve<g ref="char:EOLhyphen"/>ry Year 476; and ſo its Succeſſion is Given as the 7th <hi>Head,</hi> and <hi>Eighth King,</hi> Rev. 17. For it is in Immediate Succeſſion to the <hi>Seventh King,</hi> no Head, which was the Chriſtian <hi>Emperor</hi> in the <hi>Weſt.</hi>
+            </p>
+            <p>Then the <hi>Bestian Anti-chriſtian</hi> Power grew up to its height, or <hi>Supremacy</hi> at 606, as the <hi>Star Fallen</hi> to the <hi>Earth,</hi> within his Firſt Time, and purſued by God with the Firſt <hi>Woe,</hi> or the <hi>Ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ometan</hi> Impoſture, at 622, and ſo to 797, Arm'd in the <hi>Saracenick,</hi> Inrodes upon the <hi>Weſtern</hi> Parts of the <hi>Empire:</hi> This continued along <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Second Time, or Firſt of the <hi>Two Times</hi> of his ſettled, or, conſi<g ref="char:EOLhyphen"/>ſtent Power, till the <hi>Second Turkiſh Woe</hi> ſtarts out in the Third Time, or Second of the <hi>Two Times,</hi> where His ſtint, or the Bounds of his Power were ſet: Till it came down to the <hi>Reformation</hi> at the Be<g ref="char:EOLhyphen"/>ginning of his <hi>Half Time,</hi> at the Year 1517. Where it hath continued an 180 Years, down to the preſent. 1697, a declined and decayed, but not a Fallen Power, according to the very Im<g ref="char:EOLhyphen"/>portance of <hi>Two Times</hi> degraded to a <hi>Half Time.</hi>
+            </p>
+            <p>Now I would Appeal to all the Reaſon, and Underſtanding <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Man, whether, when all the <hi>Prophetical</hi> Images are ſo ex<g ref="char:EOLhyphen"/>preſſive of theſe Events; And that, the <hi>Line of Time,</hi> that <hi>Pro<g ref="char:EOLhyphen"/>phecy</hi> hath proportion'd to them, when laid to them, is ſo fairly
+<pb n="14" facs="tcp:48216:8"/> every way Adjuſtable, <hi>Viz.</hi> From <hi>Cyrus</hi> before the <hi>Weeks;</hi> Since the <hi>Weeks,</hi> to the Death and Reſurrection of Chriſt, After the Death, and Reſurrection of Chriſt, and the Preaching of the Apoſtles at the End of the <hi>Weeks,</hi> in 400 Years of the <hi>Seales;</hi> and the Greater Cantons of <hi>Time, Times-Half Time</hi> dividing, and diſtri<g ref="char:EOLhyphen"/>buting 1260 Years into 360, 720, 180, and All ſo according with the very Years, we Vulgarly Account to 1697. I would, I ſay, appeal to all Senſe, and Underſtanding, whether this <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<g ref="char:EOLhyphen"/>count can be the Creature of Fancy, and Imagination, or ſo much, as of Accident; Except they think, ſuch a Conſpiration of ſo many things, of ſo great Concernment to the World, and to the Churches of Chriſt, be below the Notice of the Divine Spi<g ref="char:EOLhyphen"/>rit, or its Care to make them known; For that the very things themſelves cannot be contriv'd into ſuch Repreſentations, cannot be once ſaid; when it is ſo Experimental, that the things, if not ſo Deſign'd by the All-ſeeing Spirit, muſt by Accident be ſo ſubject to the Elaboration of Fancy, and Imagination, or rather of J<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ment, and Underſtanding; Seeing this Threefold Reſpect is found in Re<g ref="char:EOLhyphen"/>ality, and Subſtance of <hi>Scripture-Emblems,</hi> of <hi>Scripture-Numbers,</hi> of Correſpondent Events, in <hi>Hiſtory,</hi> and <hi>Chronology;</hi> To ſay which Undermines All Rationality of Inference from the Greateſt Correſ<g ref="char:EOLhyphen"/>pondency of Effects in Creation, and Providence, with the Wiſdom, and Power of the Supreme Creator, and Governour of All, <hi>V<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> If we may not Reaſon from theſe, to the Intention of Divine Spirit.</p>
+            <p>Now from hence, reach the Additional 75, to the <hi>Thouſand</hi> Years of the <hi>Bleſſed State, Viz.</hi> From the <hi>Kingdom of Chriſt</hi> in Suc<g ref="char:EOLhyphen"/>ceſſion, in Thirty years of the <hi>Sealed Thunders,</hi> opened in <hi>Rev.</hi> c. 14. Making the 1260, 1290. Wherein Firſt there is a Glorious ſhini<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> out of the Goſpel, and the Glory of Chriſtianity for the Conver<g ref="char:EOLhyphen"/>ſion, and bringing Multitudes to Chriſt, and for a Teſtimony againſt thoſe who remain obſtinate, the <hi>Filthy</hi> being <hi>Filthy ſtill;</hi> And then the <hi>Vials poured</hi> out, that <hi>Time of Trouble, ſuch as never was, ſince Man was upon Earth,</hi> Through the Forty Five Additi<g ref="char:EOLhyphen"/>onal to the 1290, and making them 1335, to the Glorious and Bleſſed State, and the <hi>Lots</hi> of the <hi>New Jeruſalem,</hi> in the <hi>End of theſe Days,</hi> Dan. 12. 11, 12, 13.</p>
+            <p>And in the ſame way of Evidence, and Aſſurance, I find m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſelf through the Gracious Aſſiſtance of God, able to go backward in the <hi>Analytical,</hi> or Retrograde method to the very <hi>Death of Solo<g ref="char:EOLhyphen"/>mon,</hi>
+               <pb n="15" facs="tcp:48216:8"/> where I began, and find the Connexion of one thing to another, ſo Juſt, ſo True, ſo Stedfaſt, and ſo Unmoveable, that they cannot be diſlocated, nor Disjoynted; And the Numbers of Scripture-Time ſo Lock'd, one within another, That they cannot be Wrench'd, or Forced aſunder; All which I have in Readineſs to offer to every Judicious Conſiderer, and of which I would give the Briefeſt <hi>Specimen</hi> in this following <hi>Scheme,</hi> that I can Contrive.</p>
+            <p>The <hi>Thouſand Years,</hi> are by all the Wonders of it the moſt un<g ref="char:EOLhyphen"/>doubted End, or <hi>Finiſhing</hi> of <hi>Wonders;</hi> And the very ſame with the <hi>Myſtery of God to be Finiſh'd,</hi> by the <hi>Seventh Angel</hi> ſounding, according as he hath ſpoken in <hi>Goſpel</hi> to, and by his <hi>Servants the Prophets.</hi>
+            </p>
+            <p>This being the <hi>Fullneſs of Times,</hi> all Times Center, or flow down, and reſt in it. Here reſt the 45 Laſt of the 2300 <hi>Eves, Morns,</hi> as is expreſt in <hi>Daniel;</hi> The 45 take ſuch hold of the 30, that all the force in the World can't divide them; As is Apparent by 1290 made 1335, the <hi>Thirty</hi> take the ſame hold of the 1260; Which are the <hi>Times,</hi> and <hi>Half;</hi> That they can no more be ſepa<g ref="char:EOLhyphen"/>rated, then the others; The 1260 in the Three Diviſions, <hi>Viz.</hi> The <hi>Half Time</hi> takes hold of the 720, or the two Times; And the two Times of the Firſt Time, or 360, And they can endure no diſtance; Becauſe they are together one 1260. The 1260 neceſ<g ref="char:EOLhyphen"/>ſarily take hold of whatever Time went before, and lay between the 490 of the <hi>Weeks,</hi> and the 1260; This can be no way con<g ref="char:EOLhyphen"/>teſted; Becauſe the <hi>Weeks</hi> by Expreſs Scripture End Three Years, and Half, or <hi>Half a Week</hi> from the Death of Chriſt; And then, we know a Time there muſt be, from the Beginning of the 1260, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f ſome diſtance of Space from the End of the <hi>Weeks;</hi> Becauſe him the Three Years and Half after the Death of Chriſt, ſo many more Years, then 1260 are now paſſed, and yet the Great Events at the End of the 1260, not yet come to paſs, and there<g ref="char:EOLhyphen"/>fore not the 1260 themſelves. And yet that ſpace muſt take hold of the End of the <hi>Weeks,</hi> Becauſe the <hi>Half Week</hi> Ends a Three Years, and a Half; Half a <hi>Week;</hi> from the Death of <hi>Christ;</hi> The <hi>Seventy Weeks</hi> Notwithſtanding, They are divided to Joynts, yet are as cloſe, as the Joynted parts of any the ſame Member of the Body, being together the <hi>Seventy Weeks;</hi> The <hi>Seventy Weeks</hi> lay an Indiſputed Claim to whatever Time went before to <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rus;</hi> And every part muſt be Joyned Each to other, Becauſe all the
+<pb n="16" facs="tcp:48216:9"/> ſeveral Portions of Time ſtand United in the 2300; A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſee<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g ſo much Time hath already paſſed ſince the End of the <hi>Weeks,</hi> as leaves no more then 75 before the <hi>Weeks</hi> of the 2300 to <hi>Cyrus,</hi> we are ſure, there can be no more; I confeſs, there may be Fewer, and ſo more of the 1260 to Run out then to 97; But ſo far, as we can be ſure, there can be no more than 400 before the 1335. We may be ſure, there can be no Fewer, than 75 before the <hi>Weeks.</hi>
+            </p>
+            <p>From <hi>Cyrus</hi> backward, muſt be the 40 <hi>of Judah's Sin B<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n,</hi> Lying Cloſe to the End of the 390 <hi>Days</hi> of <hi>Iſrael</hi>'s <hi>Sin Born,</hi> which Bring back to the Diviſion of the Tribes into the <hi>Two Houſes</hi> of <hi>Iſrael,</hi> and <hi>Judah;</hi> All which Things have been, and are Ready to be Fully made out to any, who Deſire it in parti<g ref="char:EOLhyphen"/>cular.</p>
+            <p>The Undoubted Emblems of Scripture Anſwering to theſe <hi>Numbers of Time,</hi> may be Accounted for with the ſame Evi<g ref="char:EOLhyphen"/>dence, in this Retroſpective Motion, as in the Progreſſion; For the very End of the Wonders is plac'd in the <hi>Beaſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d the <hi>Falſe Prophet caſt alive into the Lake;</hi> And the Glory o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſt's Appearance, and the Armies of Heaven, for whom <hi>Thro<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> were Set,</hi> and <hi>They Sate upon Them,</hi> and <hi>They Lived and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ed with Chriſt a Thouſand Years</hi> were ſuch, as did not <hi>Worſhip the Beast, nor Receive his Mark,</hi> &amp;c. The <hi>Vials,</hi> that Brought in the <hi>Thouſand Years,</hi> are Noted to Fall on the <hi>Beaſt,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them that <hi>Worſhipp'd the Beaſt,</hi> and had <hi>Receiv'd his Mark.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <hi>Voices,</hi> that prepar'd for the <hi>Vials,</hi> and at the End of which, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Vials</hi> Began, were alſo upon the <hi>Beaſt;</hi> and the <hi>Witneſſes</hi> coming out of the Death, the <hi>Beaſt</hi> had laid them under, plainly Entwiſt the <hi>Vials</hi> and the <hi>Voices</hi> with the <hi>Beast,</hi> and the <hi>Witneſſes;</hi> and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their Times one with another; <hi>viz.</hi> with the 1260 <hi>Days, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 42 Moons,</hi> the <hi>Times, and Days,</hi> and <hi>Half.</hi> And in this <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> manner the <hi>Dragon,</hi> and they that were <hi>Beheaded</hi> for the <hi>Word of God,</hi> and for the <hi>Teſtimony of Jeſus,</hi> and the <hi>Dragon caſt down,</hi> and the <hi>Martyrs</hi> of Chriſt <hi>Overcoming,</hi> by the <hi>Blood of the L<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and the <hi>Word of his Teſtimony,</hi> and <hi>not Loving their Liv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> un<g ref="char:EOLhyphen"/>to Death;</hi> Seeing the <hi>Dragon</hi> Gave his <hi>Power,</hi> and his <hi>Seat</hi> un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Beaſt,</hi> ſhew, very Evidently, that the <hi>Moons</hi> of the <hi>Gentil<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and of the <hi>Beaſt,</hi> Began at the End of the <hi>Seals.</hi> Even <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is moſt clear in a Progreſſive Motion, the <hi>Seals</hi> Iſſue into <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Trumpets,</hi> by the <hi>Seventh Seal</hi> conveying to them; The <hi>Trumpets</hi> into the <hi>Voices</hi> by the <hi>Seventh Trumpet;</hi> the <hi>Voices</hi> by the <hi>Seventh
+<pb n="17" facs="tcp:48216:9"/> Voice</hi> into <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Vials,</hi> the <hi>Vials</hi> by the <hi>Seventh Vial</hi> into the <hi>Thouſand Years.</hi>
+            </p>
+            <p>The <hi>Seals</hi> Run plainly Back into the <hi>Weeks,</hi> Beginning in the Confirmation of the <hi>Covenant,</hi> by that Preaching of the <hi>Goſpel</hi> by the Apoſtles, Emblem'd by Chriſt <hi>Riding</hi> out on <hi>his White Horſe, conquering,</hi> and <hi>to conquer,</hi> at the Ending of the <hi>Weeks;</hi> The <hi>Weeks</hi> Run back into the Time of <hi>the Word Going forth</hi> for the <hi>Reſtoring Judah,</hi> and <hi>Jeruſalem,</hi> from whence they are Dated; The <hi>Going forth of the Word into the Babyloniſh Capti<g ref="char:EOLhyphen"/>vity,</hi> which gave Occaſion to the <hi>going forth of that Word;</hi> and the Laſt <hi>Forty Years</hi> of the <hi>Babyloniſh Captivity,</hi> which was the Ground of <hi>Bearing the Iniquity,</hi> or Puniſhment of the <hi>Houſe of Judah,</hi> claſps Faſt with the 390 of <hi>Bearing Iſrael's Sin;</hi> becauſe God commanded <hi>Ezekiel,</hi> when <hi>He bad Born the ſin of Iſrael on the Left ſide,</hi> without any Intermiſſion, to <hi>Turn on the Other ſide,</hi> and to <hi>Bear the ſin of the Houſe of Judah on the Right ſide,</hi> and the <hi>Bearing<g ref="char:punc">▪</g>
+               </hi> the Sin of the Houſe of <hi>Iſrael</hi> goes back to the Diviſi<g ref="char:EOLhyphen"/>on of the <hi>Tribes</hi> into <hi>Two Houſes,</hi> at <hi>Solomon</hi>'s <hi>Death.</hi>
+            </p>
+            <p>In the Laſt Place, I dare Appeal to the Greateſt <hi>Chronologers,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Hiſtorians, whether our General Accounts do not, within <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome Fair Proportion, Allow the Years of the <hi>Papacy,</hi> of the <hi>Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Power,</hi> of the <hi>Roman Empire,</hi> of the <hi>Grecian, Perſian, Baby<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſh Kingdoms,</hi> to ſerve theſe <hi>Prophetical</hi> Accounts; and ſo <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ward by the <hi>Kings of Iſrael</hi> and <hi>Judah,</hi> to the Death of <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lomon.</hi> Now all theſe Things, were there Room to Repreſent Them clearly, particularly, and in Full, would Give ſuch certainty <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> theſe Points, according to the Exactneſs of Scripture-Time, as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould amount to the Juſtification of the Great <hi>Hope,</hi> I ſo pub<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly make Offer of; and againſt which, in every minute Par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ar, I Humbly Pledge my ſelf to be Ready to Receive Exceptions, and to Return Due Satisfaction; and therefore ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow Return to the more General Objections.</p>
+            <p>This way of Endeavour to Juſtify every Thing, by Plain <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>counts, and Arguments of Reaſon<g ref="char:punc">▪</g> Approachable by every <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Reaſon, and Subject to the Examination of every Man. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oever will take ſo much Thought, and Care of Tryal, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Judgment upon Himſelf; may take off much of that Exce<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>; <hi>Why ſhould All This be Reveal'd to you more than to Any <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er?</hi>
+            </p>
+            <pb n="18" facs="tcp:48216:10"/>
+            <p>For The Anſwer I would give, is, Becauſe God hath <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngaged my Heart and Thoughts to this Inquiry; And it hath been the Principal Subject of my Intellectual Inquiries, though I hope not in a Neglect of other Points of <hi>Theology,</hi> and Scripture-Knowledge; But by this means I have been looking every way into All the Advertiſements of <hi>Scripture-Prophecy,</hi> comparing <hi>Pro<g ref="char:EOLhyphen"/>phetical Things with Prophetical,</hi> and any of the moſt Accurate Memoirs of Hiſtory and <hi>Chronology,</hi> I could Attain; And This is no other, than what Any Other Studious in theſe Things, might have Attained; and much Higher, according to the Ad<g ref="char:EOLhyphen"/>vantages of Learning, more enlarged Capacities of Mind, Clear<g ref="char:EOLhyphen"/>neſs of Expreſſion; as is<g ref="char:punc">▪</g> moſt experimental in that Excellent Per<g ref="char:EOLhyphen"/>ſon, <hi>The Annotator on the Re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elation,</hi> and his <hi>Annotations,</hi> Pub<g ref="char:EOLhyphen"/>liſhed about Four Years ago; The Only Thing that I pretend to, of Peculiar Favour herein from the Moſt High, is, That he hath thus engaged my Heart, and Thoughts to <hi>ſeparate my ſelf,</hi> and to <hi>Intermeddle with this Wiſdom,</hi> and Aſſiſted me ſo far therein.</p>
+            <p>When any one vouches any Immediate Revelation, that can<g ref="char:EOLhyphen"/>not be diſprov'd by its plain Diſagreeableneſs to other Sealed Parts of Divine Revelation, though indeed from God; H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and his Revelation are Inacceſſible, but by the ſame Spirit of Re<g ref="char:EOLhyphen"/>velation, in ſome ſuitable Efficacy of the ſame Spirit, enabling to diſcern, or to feel the Vertue of it; As in the Apoſtles Days<g ref="char:punc">▪</g> When the <hi>Prophets</hi> ſpake <hi>one by one, 1 Cor.</hi> 14. 29. Then the <hi>Reſt Judged;</hi> that is, <hi>Diſcern'd</hi> the Divineneſs of the <hi>Revelation;</hi> by the Participations of the ſame Spirit in themſelves: But when Any offer the Interpretation of written <hi>Prophecies,</hi> or Prophe<g ref="char:EOLhyphen"/>cies of Scripture, by the Aſſiſtance of the ſame Spirit that gave them; this Interpretation, if Juſt, and True, and accor<g ref="char:EOLhyphen"/>ding to the Senſe of the Divine Spirit, is the <hi>Spirit of Pro<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cy;</hi> Becauſe it is the <hi>Teſtimony of Jeſus,</hi> which is the very Eſ<g ref="char:EOLhyphen"/>ſence of the <hi>Spirit of Prophecy:</hi> Now this is plainly Approva<g ref="char:EOLhyphen"/>ble by All, who wait upon the ſame Word of God by the Aſſiſtance of the ſame Spirit: I do not therefore in Any of theſe <hi>Prophetical</hi> Diſcourſes, offer at any ſuch thing, as in which the <hi>Spirit of the Lord</hi> paſſing by others, ſhould have ſpoken to me, but what every one hath the ſame Right, and Open Door to, and Freedom of; and what every one hath a Riight to Examine and Accept, or Reject, according to the Evidence he ſinds of an Agreeableneſs with the <hi>Sure Word of Prophecy</hi> or not:
+<pb n="19" facs="tcp:48216:10"/> That onely I ſtand up for, is, That He <hi>Judges</hi> as a <hi>Prophet,</hi> according to the <hi>meaſure of that Diſpenſation</hi> of the Bleſſed Spi<g ref="char:EOLhyphen"/>rit, now vouchſefed to his Servants; That is, that he Judge by the Due Compare of <hi>Prophecy</hi> with <hi>Prophecy,</hi> by Attendance to every Hint, and Indication of the <hi>Prophetical Mind</hi> Flowing from that Spirit, and that he lay this Firſt, as a Foundation, that the <hi>Prophecies</hi> of Scripture ought to be <hi>Given Heed to;</hi> and that they may be underſtood, as a <hi>Light ſhining in a dark place:</hi> And whoever doth not thus addreſs himſelf, can no more Judge, then any one could of the <hi>Revelations</hi> then made by the <hi>Spirit</hi> to the <hi>Prophets</hi> of thoſe Firſt Times, when they met in thoſe <hi>Prophetical</hi> Exerciſes, without the Communication of the ſame Spirit to themſelves; or then an Illitterate, or unknowing Perſon in any Science or Art, Can Judge of the Exercitations of the moſt knowing Perſons, or Artiſts, when they meet together for the Communication of their moſt Elaborate Exercitations therein: And ſo I do indeed Claim, and Inſiſt on this Priviledge; That none undertake to Judge, of what I have offered in theſe things, but by ſuch <hi>Prophetical</hi> Preparations, and Attendances upon Scrip<g ref="char:EOLhyphen"/>tion <hi>Propheſies,</hi> that are indeed open to every one that Deſires to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nter by the <hi>Key</hi> of Scripture-<hi>Prophetical</hi> Knowledge, and ſhut to others. And this is no more Preſumption, then what every one thinks his Priviledge, that no one Judge of his Art, but He that Underſtands it firſt Himſelf: And this I hope Vindicates from any undue Aſſumption of any more, then the Gracious Direction of my Heart, and Thoughts, to that Book of <hi>Scripture Prophecy,</hi> that Lies open to every one, that draws nigh with due Prepara<g ref="char:EOLhyphen"/>tion; And that every one may Judge of by the ſame Pre<g ref="char:EOLhyphen"/>paration.</p>
+            <p>It may be further Objected, that yet it is very hard, if not Im<g ref="char:EOLhyphen"/>poſſible to attain the Senſe of the Divine Spirit to a Year, or any ſuch Preciſe, Definitive Account of Time.</p>
+            <p>To this I Anſwer, It will eaſily be allowed that the Divine Spirit hath Determin'd, and knows according to that its Expreſſion of it ſelf, to the very <hi>Self ſame Day;</hi> And therefore, ſeeing it hath given <hi>Numbers</hi> of Time, it muſt be to the very <hi>Self ſame Day,</hi> For the end of every <hi>Number</hi> is ſo Preciſe, and Defi<g ref="char:EOLhyphen"/>nite; That It muſt needs be to the very <hi>Self ſame Year,</hi> and even Day, if we could have, as Punctual Account of Days, as of Years; But I find not the Holy Spirit ordinarily, is more particular then
+<pb n="20" facs="tcp:48216:11"/> Years: By therefore a due Poize of that Trine Aſpect, of <hi>Prophe<g ref="char:EOLhyphen"/>tick Emblems, Prophetick Numbers,</hi> and Providential Effects in Event, and Matters of Fact; of the Records of which, It hath taken Care by General <hi>Hiſtory,</hi> and <hi>Chronology,</hi> we may come to know to a Year; And of this, Beſides ſeveral other Aſſurances that Require more Diſcourſe, There is that Time of the Reformation more Eaſy, and Immediate<g ref="char:punc">▪</g> to every Obſervation; wherein Di<g ref="char:EOLhyphen"/>vine Super-Intendencies upon all <hi>Hiſtorians</hi> concerning it, to Fix the Beginnings of it in 1517. does ſo aſſure the Beginning of <hi>Half Time,</hi> as to aſſure alſo the End of <hi>Half Time,</hi> as of an 180 Years, and ſo of <hi>Time,</hi> and <hi>Times</hi> at 1697. and therefore the Beginning of <hi>Times,</hi> or the <hi>Two Times</hi> at 797. and of the <hi>Firſt Time</hi> at 437. The <hi>Times, and Half,</hi> are contrived therefore into ſuch Large <hi>Can<g ref="char:EOLhyphen"/>tons of Time,</hi> as <hi>One Time, Two Times</hi> and <hi>Half a Time,</hi> that They may be ſeen in ſo Large Spaces, and ſo much together; and yet in ſuch Minute, Exact Diviſions, as <hi>Days of Years,</hi> eſpecially and on purpoſe, that they might be fully known, and exactly under<g ref="char:EOLhyphen"/>ſtood all along, and at the <hi>End.</hi> which with ſo many Concurrences before-nam'd, (and of which I ſhould be moſt Ready to Give the particular State, more at large, to a Free and Deſirous, and a Judicious Recipient) does not make it ſtrange to determine ſo par<g ref="char:EOLhyphen"/>ticularly upon 97. and may free from that Objection.</p>
+            <p>But what is there of Preparation to ſo great a Change? or what <hi>Inſtruments</hi> in view for ſuch <hi>Effects?</hi> may it be ſaid. To which, this Anſwer is to be given: That when we have to do with Him, who <hi>Planted the Heavens, and Laid the Foundations of the Earth: who telleth the Number of the Stars, and calleth them All by their Names; and appoints them every one their Courſe, to Fight in;</hi> No<g ref="char:EOLhyphen"/>thing is Hard. Or how wonderful ſoever it be in our Eyes, can it be ſo in His? <hi>Who works his ſigns, and his wonders in Heaven<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and on Earth; and none can stay his Hand, or ſay unto him, what do<g ref="char:EOLhyphen"/>est thou? who works, and none can let it: Hath he ſpoken, and ſhall he not do it? Is Any Thing too hard for me, ſath our Jehovah?</hi>
+            </p>
+            <p>And as to <hi>Means and Inſtruments,</hi> altho he could raiſe them, if he pleas'd; Yet His <hi>Word of Propheby</hi> ſo expreſſes the doing of it, as if he would make uſe of No Hand but his own; The <hi>Stone cut out of the Mountain is not in Hands;</hi> That Pow<g ref="char:EOLhyphen"/>er that ſtands up <hi>againſt the Prince of Princes, ſhall be broken without Hand.</hi> Now this <hi>without Hand,</hi> is a manner of ſpeak<g ref="char:EOLhyphen"/>ing, the Spirit of God is pleaſed, as by the <hi>Tranſlation</hi> of it from <hi>Daniel,</hi> into the <hi>New Teſtament,</hi> to <hi>Apply</hi> a <hi>Tabernacle made without
+<pb n="21" facs="tcp:48216:11"/> Hands, the Circumciſion without Hands; the Houſe not made with Hands, Eternal in the Heavens,</hi> appears to be an Expreſſion of God work<g ref="char:EOLhyphen"/>ing by an Immediate Power of his own, and by Himſelf. It is by a Spirit of <hi>Life from God,</hi> and by a <hi>Voice from Heaven.</hi> The <hi>Four Wheels <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the Four Monarchies</hi> are brought into the <hi>Temple,</hi> under the <hi>Che<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bims;</hi> and without any more ado, <hi>It was cried concerning them in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Hearing</hi> (the <hi>Hearing</hi> of the Servants of God) <hi>Oh Revolution!</hi> It immediately paſs'd upon them All, and there were <hi>Loud Voices <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Heaven</hi> upon it, proclaiming that <hi>Revolution: The Kingdoms of this World are bocome the Kingdoms of the Lord, and of his Chriſt.</hi> And this is done at <hi>Half Time</hi> Ending, which ſignifies <hi>Suddenneſs, and S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rpriſe:</hi> When this is done, He, who does it, <hi>Comes with ſtrong Hand; His Arm Rules for Him.</hi> He underſtands his own Work; In the midſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f All the Perplexities of it, <hi>His work is before him;</hi> He underſtands <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> perfectly and throughout, Every Spring, every Wheel to be mo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, Every Pin of Connexion.</p>
+            <p>But that which may much indeed Terrify, and Diſcourage, is the Great Unworthinefs of All Sorts and Degrees of Men, of Na<g ref="char:EOLhyphen"/>tions, and even of Churches; ſo that ſome very <hi>Sweeping Judgment,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <hi>Deſolation</hi> rather, or, at leaſt, is firſt to be expected.</p>
+            <p>The <hi>Hope</hi> yet is, That <hi>when God works for his Kingdom,</hi> and ſeems <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be <hi>Lifting up his Hand to Deſtroy, He will work for his own Names <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> in a <hi>Deliverance.</hi> He will conſider, He, to whom the <hi>Kingdom <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be Given,</hi> is worthy: And when the Lord Jeſus Chriſt, <hi>the An<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of the Covenant,</hi> comes into his <hi>Temple,</hi> He does not expect to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <hi>Refinement</hi> ready to his Hand, but He comes to <hi>Refine:</hi> He hath <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ven an Example in the Apoſtle <hi>Paul</hi> of <hi>All Long-ſuffering and Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce,</hi> eſpecially prepared for that very Time; Thoſe, who ſhall <hi>Hereafter,</hi> in a great diſtance of Time, <hi>Believe on Him: His Reward <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th Him.</hi> He expects it only from Himſelf, <hi>when his work ie ſo <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re him.</hi> And even to <hi>Impenitents</hi> there is firſt a time of <hi>Warning <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d Teſtimony,</hi> and then <hi>the Day that will Burn as an Ouen,</hi> and the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ked are as Aſhes under the Soles of the Feet<g ref="char:punc">▪</g>
+               </hi> After this <hi>warning</hi> is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>perdition of ungodly Men reſerv'd for puniſhment.</hi>
+            </p>
+            <p>I know very well, Notwithſtanding, all this Aſſurance, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Reaſon of it, I have given; It will be ſaid yet to me; Seeing <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>is Year <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>7 is in ſo near on Approach, and there are no Appear<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ces of ſuch a Succeſſion, or opening of the <hi>Kingdom of Chriſt,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght it not therefore to ſhake your Confidence, and put a diffi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence upon ſuch a continued Affirmation of ſuch a Kingdom to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake any Entrance at this Time?</p>
+            <pb n="22" facs="tcp:48216:12"/>
+            <p>In Anſwer to this, I would make this Humble Profeſſion, or Confeſſion in theſe Three things.</p>
+            <p>Firſt, I cannot be ſhaken in my aſſurance; Becauſe I find my Grounds in the Word of God unſhakable, and unmoveable; A <hi>Falſe Witneſs,</hi> that hath no Foundation Periſheth in this Senſe; He cannot Bear up to, nor continue in his Teſtimony; But, <hi>He that Heareth,</hi> and knows, on what Grounds He ſpeaks, <hi>Af<g ref="char:EOLhyphen"/>firmeth conſtantly:</hi> He that hath <hi>ſeen nothing,</hi> as the Ground of his <hi>Prophecy</hi> is like a <hi>Reed ſhaken with the Wind;</hi> But they, that <hi>have the Word of the Lord,</hi> Continue to ſpeak it: While I am ſo cer<g ref="char:EOLhyphen"/>tain, The <hi>Kingdom of Chriſt</hi> Enters its Succeſſion without any delay, whenever the Laſt of the <hi>Four Kingdoms</hi> Ends; That the <hi>Third Woe</hi> of the <hi>Seventh Angel,</hi> that Sounds the Kingdom of Chriſt, <hi>Cometh quickly;</hi> I look to ſee therefore, what aſſurances there are, this Laſt <hi>Kingdom,</hi> even its Laſt State is upon giving up. I find then, the <hi>Times</hi> and <hi>Half,</hi> Which are the Term of the Laſt State, of the Laſt <hi>Kingdom;</hi> By the Time ſince <hi>Conſtantine;</hi> By the Time, ſince the <hi>Chriſtian Empire</hi> Demiſed; By the Time ſince <hi>Mahometaniſm,</hi> and more Particularly the <hi>Ottoman Empire</hi> hath entred the World; By the Time, ſince the <hi>Reformation</hi> firſt entred by <hi>Luther,</hi> juſt end<g ref="char:EOLhyphen"/>ing. All theſe have ſuch Lively Sculpture and Engravings, in the <hi>Sure word of Prophecy,</hi> and their Times ſo Delineated; I do not better know the Courſe of the Months in the Year, the Days in the Month, or the Hours in the Day, then I know the very Laſt Year of the 1260 Days of Years, is now entring, and to Run its Circle; and that within its Circle, the <hi>Kingdom of Chriſt</hi> will come into its Succeſſion.</p>
+            <p>The Second thing, that I moſt Humbly deſire to be Stedfaſt, Unmoveable, Unſhaken in, and upon, is the Exceeding R<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of the Grace, and Loving Kindneſs of God in Jeſus Chriſt, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Great <hi>High Prieſt, and Apoſtle of my Profeſſion;</hi> That <hi>Shepherd</hi> of the <hi>Sheep,</hi> that is to <hi>Shine forth</hi> as the Great <hi>Prince,</hi> to have; That great <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that Fold<g ref="char:punc">▪</g> that is a Court, <hi>One Shepherd, and One Fold:</hi> In the Goodneſs and Faithfulneſs of the <hi>Spirit of Truth, Guiding into all Truth: Glorifying the Lord Jeſus Chriſt, by taking of the Things,</hi> That are His, and ſo of his <hi>Kingdom,</hi> and <hi>ſhewing</hi> them to his Servants, and <hi>ſhewing</hi> them <hi>Things that are to Come;</hi> I have Great Aſſurance in his Tendereſt Mercies, having Led, and Guided, and Supported me thus far, in the Search after his <hi>King<g ref="char:EOLhyphen"/>dom,</hi> and Manifeſted ſo much to me; He will not Leave more to
+<pb n="23" facs="tcp:48216:12"/> be aſhamed of my Hope; I can Humbly ſay before Him, as his Servant <hi>Jeremy; Oh Lord, thy Words have been Found, and I have Eaten them, and they have been the Joy, and the Rejoycing of my Heart,</hi> I Humbly therefore Expoſtulate with Him, <hi>Wilt Thou? Wilt Thou be to me as a Lyar;</hi> I know it is Impoſſible, <hi>He ſhould Lye, He is God, that cannot Lye;</hi> And therefore herein His Ser<g ref="char:EOLhyphen"/>vants may plead with Him; The <hi>Viſion</hi> ſhall not <hi>Lye,</hi> He will not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Waters, that are not ſure,</hi> of which he hath given ſo Lively <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Deſcription, in comparing the Unfaithfulneſs of Friends to The<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; <hi>My Friends have dealt Deceitfully with me,</hi> as a <hi>Brook,</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the <hi>Streams of Waters, that paſs away; Which are Blackiſh by Reaſon of Ice,</hi> &amp;c. <hi>But what Time they are warm, They Vaniſh, when <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is Hot, They are Conſumed out of their Place; the Paths of their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y are turned aſide,</hi> They go <hi>to nothing, and Periſh; The Troops of</hi> Tema, <hi>Looked, and VVaited; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Companies</hi> of Seba <hi>were Confoun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d, Becauſe they had Hoped, they came thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her, and were Aſhamed,</hi> Jer. 15. 15. <hi>&amp;c.</hi> Job 15. 15. <hi>&amp;c.</hi> How fully does this Expreſs, what <hi>Jeremy</hi> underſtood by Waters <hi>not ſure!</hi> And how Applicable to My Caſe, if the Hopes I have of the Kingdom of Chriſt, ſhould prove miſtaken.</p>
+            <p>It may be ſaid, Indeed if I were ſure, I had the Right Senſe of <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ripture-Prophecy,</hi> the Argument were enough ſure; I therefore <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erein Rely on his Grace, that he hath Guided me into the Truth <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his Word; that as I am ſure, <hi>His Word cannot Fail; He cannot <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>;</hi> ſo neither can any <hi>Iron,</hi> any Created Power break the <hi>Nor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rn Iron,</hi> or prepared Steel of his Wiſdom, Truth and Power.</p>
+            <p>But leſt any ſhould ſay, <hi>If you have ſuch a Fasth, have it to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r ſelf before God, and Happy are you, if you do not find Reaſon <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Condemn your ſelf in what you ſo much approve:</hi> This therefore <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>my <hi>Third Profeſſion,</hi> The things that I have ſo heard and ſeen by continual ſearch into, Meditation upon, and ſeeking Divine Di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion in, I cannot but ſpeak; I look upon the <hi>Kingdom,</hi> as of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſe Things wherein we ſhould <hi>confeſs Chriſt,</hi> and <hi>not be aſhamed of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> before Men,</hi> who ſo deſpiſe <hi>his Kingdom;</hi> and of thoſe, of which <hi>Confeſſion is to be made with the Mouth uneo Salvation.</hi> And therefore, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> have Humble Hopes, That Jeſus Chriſt hath been Graciouſly <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>as'd to draw out my Heart, Thoughts, Meditations, to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch <hi>Every Retirement</hi> of his Word therein above All, that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e been before me; And to give me Greater Confidence and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſurance; and a more open Profeſſion and Publication of what
+<pb n="24" facs="tcp:48216:13"/> I have Found; So that he will graciouſly <hi>Accept, Remember, Par<g ref="char:EOLhyphen"/>don, ſpare me</hi> through the <hi>Multitude</hi> of his Mercies, and not <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> up to ſhame, and Confuſion of Face before Men, and confeſs <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>before his Father,</hi> and before <hi>his Holy Angels.</hi>
+            </p>
+            <p>That ſuch a State of his <hi>Kingdom,</hi> and ſuch a Revolution with it, and by it, ſhall this very Year Appear to All th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> World, as hath never been ſince the <hi>Apoſtacy of Humane Na<g ref="char:EOLhyphen"/>ture;</hi> and that therefore All Mighty Works ſhall ſhew forth Themſelves in it: <hi>The Spirit ſhall be poured out from on High; The Wilderneſs ſhall Become a Fruitful Field; viz.</hi> in the high<g ref="char:EOLhyphen"/>eſt Purity, and Proſperity of his Churches; and <hi>that, which look'd like a Fruitful Field, become Deſert,</hi> even the Antichriſtian State, and whatever partakes of it, the Glory of <hi>All</hi> this World, and the Grandeur of it; and ſo the <hi>Everlaſting Goſpel</hi> ſhall be <hi>preach<g ref="char:EOLhyphen"/>ed to every Nation, Tongue and People,</hi> and every Thing move to the Glory of that Kingdom.</p>
+            <p>To whom then (Moſt Reverend, and Right Reverend) could I preſent equally, as to you, the conſideration of theſe things, who, I am aſſured are ſo Richly Furniſhed with all Advantages of Learning, both in that <hi>Sure word of Prophecy,</hi> and in <hi>Hiſtory,</hi> and <hi>Chronology,</hi> Correſpondent therewith; And whoſe very Title Imports the Office of Thoſe, who are on the <hi>VVatch Tower,</hi> waiting for the <hi>Speaking of the Viſion,</hi> which will not Tarry beyond its Time; And therefore ſhould be able to Anſwer the Queſtion, <hi>VVatchman, VVatchman, what of the Night?</hi> Or how <hi>Near</hi> is the <hi>Morning?</hi> and who, as Perſons of an Elevated Station, ought to Vindicate your ſelves by a Higher Zeal for the Kingdom of Chriſt, and even by a Holy Haſte to bring Him to his Throne above othe<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> That you may not Fall under any Ombrage of the <hi>Anti-christ<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> Hierarchy,</hi> who as <hi>Feet of Clay,</hi> are found in the Undermine of the <hi>Kingdom of Chriſt;</hi> and are Broken by the very Firſt Openings of it, as upon which that <hi>Image</hi> Reſts, that Stands in delay of that <hi>Kingdom.</hi>
+            </p>
+            <p>How therefore ſhould you be able to anſwer that Queſtion<g ref="char:punc">▪</g> 
+               <hi>What do you more than others for the Kingdom of the Chief Shep<g ref="char:EOLhyphen"/>herd, who hath it on his Veſture, and on his Thigh, King of Kings, and Lord of Lords?</hi> and who Profeſs to Attend upon him more Near and in Ordinary.</p>
+            <pb n="25" facs="tcp:48216:13"/>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt Humbly therefore ſubmit this <hi>Apology</hi> to your Severeſt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ation, and that as <hi>Prophets,</hi> that is, Perſons above Ordinary, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ted in the <hi>Sure Word of Prophecy,</hi> (for no otherwiſe can it be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) you would <hi>Judge;</hi> The Grounds Themſelves I freely tender to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>age and Learned a Chriſtian, a Proteſtant Preſidency. There is a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>Intuitive Knowledge and Plerophory</hi> of <hi>Satisfaction,</hi> I muſt (with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Reverence</hi> yet, and Humble <hi>Fear</hi>) Hope I have a Right unto, as <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>per to the having ſeen together the Curious Lines of <hi>Prophecy,</hi> e<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l to the Curious Lines and <hi>Symmetry</hi> in the Works of God, which <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> moſt <hi>Exact Astronomer, Anatomiſt, Naturaliſt, Mathematician</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or can Obſerve. I deſire the Things I offer might be brought <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Seriouſeſt Conſultation, and Debate, as in the Days of <hi>Herod</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>erning the place <hi>where Christ ſhould be born,</hi> ſo now concerning, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Time of his Kingdom Appearing.</hi> It cannot be but moſt Great, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be near the <hi>proclaiming of the Kingdoms of this world to be the King<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s of the Lord and of his Chriſt.</hi> How would it releive in <hi>All</hi> the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſt Inextricable Labyrinths of the preſent Difficulties of Nations, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Nation particularly, to our <hi>King,</hi> to <hi>the Councel of the Nation in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>liament:</hi> That <hi>He, whoſe Right it is,</hi> is now about to <hi>take to Him<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> his Great Power, and to Reign, and to deſtroy them,</hi> who have been <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ong <hi>deſtroying the Earth.</hi>
+            </p>
+            <p>I know, the <hi>Paganizing Nations,</hi> and <hi>Spirits</hi> will be very <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> even at the Mention of theſe Things, as <hi>
+                  <g ref="char:V">Ʋ</g>topian, Imagi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, Fanatical;</hi> and think to Scoff it off; But as an Hidden and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ncealed Train, that Gives Fire, and hath its Effect in a Mo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent; ſo the Chain of Divine Councels, the Predictions of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>niſciency in All Times take Full Effect in their own Juſt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ments, how Unawares ſoever the World be concerning them: <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> He who is <hi>wonderful in Counſel, and excellent in working,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> neither be out-witted, nor over ruled.</p>
+            <p>What I offer can be onely from Senſe of Duty to declare, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at I have ſo Full Aſſurance of: Duty as to the Great <hi>Re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r of Prophetical Secrets,</hi> the <hi>wonderful Numberer of the Times <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Prophecy;</hi> ſo Duty to the Publick, in the ſo Generally Ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owledged Diſtreſs of Affairs; For which my Conſtant Sup<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cations Aſcend, as alſo for You whoſe Moſt Chriſtian Aſſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce, and Adminiſtration, according to Your Higher Sphere, I
+<pb n="26" facs="tcp:48216:14"/> Beſeech, and who, I Hope, Count it Your <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to Serve Him, who is the <hi>Prince of the <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>
+               </hi> and therefore will not with a <hi>Gallio-like</hi> Spirit, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>any of theſe Things.</hi>
+            </p>
+            <closer>
+               <salute>Moſt Reverend, Right Reverend,</salute>
+               <signed>Your Moſt Humble Serv<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> In That Kingdom of our Lord <hi>T. BEVERLEY</hi>
+               </signed>
+               <dateline>
+                  <date>This Firſt Month of the Year 1697.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48216:14" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
